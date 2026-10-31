@@ -1,0 +1,1 @@
+Project structure and Vite configuration prepared. A live npm build could not be completed in this environment because package installation did not finish within the execution window. Run `npm install` then `npm run build` in Vercel or locally.
